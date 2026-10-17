@@ -2,5 +2,7 @@ User-agent: *
 Allow: /
 Disallow: /gracias.html
 Disallow: /checklist-liquidacion.pdf
+Disallow: /checklist-precontractual.pdf
+Disallow: /checklist-ejecucion.pdf
 
 Sitemap: https://pjabogado.github.io/sitemap.xml
