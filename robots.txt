@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /gracias.html
+Disallow: /checklist-liquidacion.pdf
 
 Sitemap: https://pjabogado.github.io/sitemap.xml
